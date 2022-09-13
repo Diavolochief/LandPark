@@ -1,0 +1,32 @@
+{
+  "Pacientes": [
+    {
+      "paciente": {
+        "nombre": "erick alonso",
+        "apellidos": "Gomez Ponce",
+        "telefono": "3313524827",
+        "correo": "erick_alonso56@hotmail.com",
+        "password": "123698745Hola"
+      },
+      "id": 1
+    }
+  ],
+  "Medicamentos": [
+    {
+      "med": "ibuprofeno",
+      "stock": "25",
+      "dosis": "2",
+      "tipo": "tableta",
+      "alarma": "6",
+      "id": 1
+    },
+    {
+      "med": "paracetamol",
+      "stock": "50",
+      "dosis": "25",
+      "tipo": "tableta",
+      "alarma": "6 hrs",
+      "id": 2
+    }
+  ]
+}
